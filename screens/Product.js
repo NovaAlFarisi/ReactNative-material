@@ -5,7 +5,7 @@ class Product extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Product Screen!</Text>
+        <Text>Saved navigation | Content here</Text>
       </View>
     );
   }
